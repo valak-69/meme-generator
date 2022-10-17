@@ -6,7 +6,7 @@ export default function App(){
     return(
         <div>
             <Navbar />
-            <Navbar />
+            {/* <Navbar /> */}
             <Meme />
         </div>
     )
